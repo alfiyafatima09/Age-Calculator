@@ -16,7 +16,7 @@ A simple web application that calculates age based on the provided birth date us
 
 - ##Image
 
-![Image]([https://github.com/alfiyafatima09/Age-Calculator/commit/bb88b4632dd82e639729a871ec210ae5b8e08c76](https://github.com/alfiyafatima09/Age-Calculator/blob/master/Age_calculator%20img.png?raw=true)https://github.com/alfiyafatima09/Age-Calculator/blob/master/Age_calculator%20img.png?raw=true)
+![Image](https://github.com/alfiyafatima09/Age-Calculator/blob/master/Age_calculator%20img.png)
 
 
 
