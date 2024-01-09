@@ -14,6 +14,9 @@ A simple web application that calculates age based on the provided birth date us
 - **CSS:** Used for styling the user interface and making the application visually appealing.
 - **JavaScript:** Used for handling user input, performing age calculation, and updating the UI dynamically.
 
+## Link
+[Age Calculator](https://alfiyafatima09.github.io/Age-Calculator/)
+
 ## Image
 
 ![Image](https://github.com/alfiyafatima09/Age-Calculator/blob/master/Age_calculator%20img.png)
